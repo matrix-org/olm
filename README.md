@@ -1,2 +1,2 @@
 # olm
-An implementation of a well known cryptographic ratchet in C++
+The Olm repository now lives in https://matrix.org/git
