@@ -1,2 +1,8 @@
 # olm
-The Olm repository now lives at https://matrix.org/git/olm
+The Olm repository now lives at https://matrix.org/git/olm.
+
+We host don't host Olm on Github as that would constitute re-exporting its cryptography to/from the US, which technically requires us to file additional paperwork with the US government: see https://www.bis.doc.gov/index.php/policy-guidance/encryption/encryption-faqs#6 for details.  Given Olm is currently developed in the UK & France, and https://matrix.org/git is hosted in UK / Holland / Germany, we store the code on this side of the Atlantic :)
+
+## Bug reporting
+
+*However*, please do file bugs against Olm here at https://matrix.org/git/olm/issues, as we don't have anywhere else to track them!
