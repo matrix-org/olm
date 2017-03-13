@@ -1,2 +1,2 @@
 # olm
-The Olm repository now lives in https://matrix.org/git
+The Olm repository now lives at https://matrix.org/git/olm
