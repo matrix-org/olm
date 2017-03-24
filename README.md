@@ -1,6 +1,6 @@
 # olm
 
-Olm (libolm) is an independent Apache-licensed implementation of the Double Ratchet cryptographic ratchet in C & C++.
+Olm (libolm) is an independent Apache-licensed implementation of the Double Ratchet cryptographic ratchet in C & C++, also including the new Megolm group ratchet as used in Matrix.
 
 The Olm repository now lives at https://matrix.org/git/olm.
 
