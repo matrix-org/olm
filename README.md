@@ -8,4 +8,4 @@ We host don't host Olm on Github as that would constitute re-exporting its crypt
 
 ## Bug reporting
 
-*However*, please do file bugs against Olm here at https://matrix.org/git/olm/issues, as we don't have anywhere else to track them!
+*However*, please do file bugs against https://github.com/matrix-org/olm/issues, as we don't have anywhere else to track them!
