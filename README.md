@@ -9,3 +9,7 @@ We don't host Olm on Github as that would constitute re-exporting its cryptograp
 ## Bug reporting
 
 *However*, please do file bugs against https://github.com/matrix-org/olm/issues, as we don't have anywhere else to track them!
+
+## Security issues
+
+If you think you found a security issue in libolm, any of its bindings or the Olm/Megolm protocols, please follow our [Security Disclosure Policy](https://matrix.org/security-disclosure-policy/) to report.
